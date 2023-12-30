@@ -23,4 +23,11 @@ public class PwdUtils {
 		    
 		    return encodepwd;
 	}
+
+     // task 101
+      public void m1(){
+
+     system.out.printl("hello welcome to java coding);
+
+        }
 }
