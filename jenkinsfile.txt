@@ -1,7 +1,0 @@
-welcome to jenkinfile
-
-first line
-
-second line 
-
-third line
