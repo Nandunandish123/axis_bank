@@ -5,6 +5,14 @@ import java.util.Base64.Encoder;
 
 public class PwdUtils {
 
+
+          public String message(){
+
+              return "hello";
+
+              }
+
+
 	public String pwdencode(String pwd) {
 		
 		Encoder encoder =  Base64.getEncoder();
